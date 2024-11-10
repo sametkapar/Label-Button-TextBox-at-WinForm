@@ -27,10 +27,6 @@ namespace WinFormsControls
             tb_sinirli.PasswordChar = (char)sayi;
 
             label1.Text = tb_sinirli.Text + "sodfhsdakfjsda";
-
-            
-            Insan i = new Insan();
-            i.isim = label12.Text;
         }
     }
 }

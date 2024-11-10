@@ -4,10 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WinFormsControls
+namespace WinFormsControls.Model
 {
-    public class Insan
+    internal class Marka
     {
-        public  string isim { get; set; }
+        public int ID { get; set; }
+        public string Isim { get; set; }
     }
 }

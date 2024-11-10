@@ -52,18 +52,41 @@
     <Compile Include="ButtonControl.Designer.cs">
       <DependentUpon>ButtonControl.cs</DependentUpon>
     </Compile>
+    <Compile Include="CheckBoxRadioButtonControls.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CheckBoxRadioButtonControls.Designer.cs">
+      <DependentUpon>CheckBoxRadioButtonControls.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CheckedListBoxControls.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CheckedListBoxControls.Designer.cs">
+      <DependentUpon>CheckedListBoxControls.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ComboBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ComboBox.Designer.cs">
+      <DependentUpon>ComboBox.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Insan.cs" />
     <Compile Include="LabelKontrolleri.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="LabelKontrolleri.Designer.cs">
       <DependentUpon>LabelKontrolleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListBoxControls.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListBoxControls.Designer.cs">
+      <DependentUpon>ListBoxControls.cs</DependentUpon>
     </Compile>
     <Compile Include="MetinAraclari.cs">
       <SubType>Form</SubType>
@@ -71,13 +94,26 @@
     <Compile Include="MetinAraclari.Designer.cs">
       <DependentUpon>MetinAraclari.cs</DependentUpon>
     </Compile>
+    <Compile Include="Model\Marka.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="ButtonControl.resx">
       <DependentUpon>ButtonControl.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="CheckBoxRadioButtonControls.resx">
+      <DependentUpon>CheckBoxRadioButtonControls.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CheckedListBoxControls.resx">
+      <DependentUpon>CheckedListBoxControls.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ComboBox.resx">
+      <DependentUpon>ComboBox.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="LabelKontrolleri.resx">
       <DependentUpon>LabelKontrolleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListBoxControls.resx">
+      <DependentUpon>ListBoxControls.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="MetinAraclari.resx">
       <DependentUpon>MetinAraclari.cs</DependentUpon>

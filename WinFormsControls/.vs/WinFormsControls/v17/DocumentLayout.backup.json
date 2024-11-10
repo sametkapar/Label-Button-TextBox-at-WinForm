@@ -1,21 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\KAPAR\\source\\repos\\WinFormsControls\\",
+  "WorkspaceRootPath": "C:\\Users\\KAPAR\\Documents\\GitHub\\Label-Button-TextBox-at-WinForm\\WinFormsControls\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1454D7B6-8CCD-41A4-BCE3-1C6E30D694A3}|WinFormsControls\\WinFormsControls.csproj|C:\\Users\\KAPAR\\source\\repos\\WinFormsControls\\winformscontrols\\metinaraclari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1454D7B6-8CCD-41A4-BCE3-1C6E30D694A3}|WinFormsControls\\WinFormsControls.csproj|solutionrelative:winformscontrols\\metinaraclari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1454D7B6-8CCD-41A4-BCE3-1C6E30D694A3}|WinFormsControls\\WinFormsControls.csproj|c:\\users\\kapar\\documents\\github\\label-button-textbox-at-winform\\winformscontrols\\winformscontrols\\checkedlistboxcontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1454D7B6-8CCD-41A4-BCE3-1C6E30D694A3}|WinFormsControls\\WinFormsControls.csproj|solutionrelative:winformscontrols\\checkedlistboxcontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1454D7B6-8CCD-41A4-BCE3-1C6E30D694A3}|WinFormsControls\\WinFormsControls.csproj|C:\\Users\\KAPAR\\source\\repos\\WinFormsControls\\winformscontrols\\metinaraclari.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1454D7B6-8CCD-41A4-BCE3-1C6E30D694A3}|WinFormsControls\\WinFormsControls.csproj|solutionrelative:winformscontrols\\metinaraclari.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1454D7B6-8CCD-41A4-BCE3-1C6E30D694A3}|WinFormsControls\\WinFormsControls.csproj|c:\\users\\kapar\\documents\\github\\label-button-textbox-at-winform\\winformscontrols\\winformscontrols\\checkedlistboxcontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1454D7B6-8CCD-41A4-BCE3-1C6E30D694A3}|WinFormsControls\\WinFormsControls.csproj|solutionrelative:winformscontrols\\checkedlistboxcontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1454D7B6-8CCD-41A4-BCE3-1C6E30D694A3}|WinFormsControls\\WinFormsControls.csproj|c:\\users\\kapar\\source\\repos\\winformscontrols\\winformscontrols\\metinaraclari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1454D7B6-8CCD-41A4-BCE3-1C6E30D694A3}|WinFormsControls\\WinFormsControls.csproj|solutionrelative:winformscontrols\\metinaraclari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1454D7B6-8CCD-41A4-BCE3-1C6E30D694A3}|WinFormsControls\\WinFormsControls.csproj|C:\\Users\\KAPAR\\source\\repos\\WinFormsControls\\winformscontrols\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1454D7B6-8CCD-41A4-BCE3-1C6E30D694A3}|WinFormsControls\\WinFormsControls.csproj|c:\\users\\kapar\\documents\\github\\label-button-textbox-at-winform\\winformscontrols\\winformscontrols\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1454D7B6-8CCD-41A4-BCE3-1C6E30D694A3}|WinFormsControls\\WinFormsControls.csproj|solutionrelative:winformscontrols\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,58 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 278,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MetinAraclari.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\KAPAR\\source\\repos\\WinFormsControls\\WinFormsControls\\MetinAraclari.Designer.cs",
-              "RelativeDocumentMoniker": "WinFormsControls\\MetinAraclari.Designer.cs",
-              "ToolTip": "C:\\Users\\KAPAR\\source\\repos\\WinFormsControls\\WinFormsControls\\MetinAraclari.Designer.cs*",
-              "RelativeToolTip": "WinFormsControls\\MetinAraclari.Designer.cs*",
-              "ViewState": "AgIAAJgAAAAAAAAAAAAtwKUAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T14:31:21.949Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MetinAraclari.cs",
-              "DocumentMoniker": "C:\\Users\\KAPAR\\source\\repos\\WinFormsControls\\WinFormsControls\\MetinAraclari.cs",
-              "RelativeDocumentMoniker": "WinFormsControls\\MetinAraclari.cs",
-              "ToolTip": "C:\\Users\\KAPAR\\source\\repos\\WinFormsControls\\WinFormsControls\\MetinAraclari.cs*",
-              "RelativeToolTip": "WinFormsControls\\MetinAraclari.cs*",
-              "ViewState": "AgIAABIAAAAAAAAAAAApwBwAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KAPAR\\Documents\\GitHub\\Label-Button-TextBox-at-WinForm\\WinFormsControls\\WinFormsControls\\Program.cs",
+              "RelativeDocumentMoniker": "WinFormsControls\\Program.cs",
+              "ToolTip": "C:\\Users\\KAPAR\\Documents\\GitHub\\Label-Button-TextBox-at-WinForm\\WinFormsControls\\WinFormsControls\\Program.cs",
+              "RelativeToolTip": "WinFormsControls\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T14:17:03.561Z",
+              "WhenOpened": "2024-11-03T13:26:06.305Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MetinAraclari.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\KAPAR\\source\\repos\\WinFormsControls\\WinFormsControls\\MetinAraclari.cs",
-              "RelativeDocumentMoniker": "WinFormsControls\\MetinAraclari.cs",
-              "ToolTip": "C:\\Users\\KAPAR\\source\\repos\\WinFormsControls\\WinFormsControls\\MetinAraclari.cs [Design]*",
-              "RelativeToolTip": "WinFormsControls\\MetinAraclari.cs [Design]*",
+              "Title": "CheckedListBoxControls.cs",
+              "DocumentMoniker": "C:\\Users\\KAPAR\\Documents\\GitHub\\Label-Button-TextBox-at-WinForm\\WinFormsControls\\WinFormsControls\\CheckedListBoxControls.cs",
+              "RelativeDocumentMoniker": "WinFormsControls\\CheckedListBoxControls.cs",
+              "ToolTip": "C:\\Users\\KAPAR\\Documents\\GitHub\\Label-Button-TextBox-at-WinForm\\WinFormsControls\\WinFormsControls\\CheckedListBoxControls.cs",
+              "RelativeToolTip": "WinFormsControls\\CheckedListBoxControls.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBkAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T14:08:50.567Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-10T15:28:12.914Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\KAPAR\\source\\repos\\WinFormsControls\\WinFormsControls\\Program.cs",
-              "RelativeDocumentMoniker": "WinFormsControls\\Program.cs",
-              "ToolTip": "C:\\Users\\KAPAR\\source\\repos\\WinFormsControls\\WinFormsControls\\Program.cs",
-              "RelativeToolTip": "WinFormsControls\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CheckedListBoxControls.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KAPAR\\Documents\\GitHub\\Label-Button-TextBox-at-WinForm\\WinFormsControls\\WinFormsControls\\CheckedListBoxControls.cs",
+              "RelativeDocumentMoniker": "WinFormsControls\\CheckedListBoxControls.cs",
+              "ToolTip": "C:\\Users\\KAPAR\\Documents\\GitHub\\Label-Button-TextBox-at-WinForm\\WinFormsControls\\WinFormsControls\\CheckedListBoxControls.cs [Design]",
+              "RelativeToolTip": "WinFormsControls\\CheckedListBoxControls.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T13:26:06.305Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-10T15:25:35.917Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
